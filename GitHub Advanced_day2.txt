@@ -1,0 +1,15 @@
+GitHub Advanced Concepts
+
+Adding JavaScript interactivity to my portfolio
+
+Forking and cloning repositories
+
+Creating and managing Pull Requests (PRs)
+
+Code review process and best practices
+
+Resolving merge conflicts
+
+Understanding professional collaboration workflow
+
+Applied basic SEO optimization to my web application
