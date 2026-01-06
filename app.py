@@ -3,7 +3,6 @@ import pandas as pd
 import time
 import os
 
-
 try:
     from auth import login
     from utils.router import choose_models
